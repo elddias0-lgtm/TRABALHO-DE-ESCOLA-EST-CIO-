@@ -1,2 +1,6 @@
-# TRABALHO-DE-ESCOLA-EST-CIO-
-Lição 1
+#include<stdio.h>
+
+int main ()
+
+
+
