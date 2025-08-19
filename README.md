@@ -2,18 +2,24 @@
 
 int main ()
  {
- // ENTRANDO COM PAÍS SEM ATRIBUIÇÕES COM DUAS OPÇÕES PAÍS 1 E PAÍS 2.
+ 
+ 
+   float brasil, canada;
+   
+    brasil = 1;
+    canada = 2;
+
+printf(" entre com PAÍS\n ");
+ scanf ("%f",  & brasil , canada);
+
+    if (  canada )  {
+    printf("SUA ESCOLHA É BRASIL");}
+     else{
+     printf("SUA ESCOLHA É CANADÁ");
+     }
 
 
 
-  int pais1 
-  int pais2
-
-     pais1 = 1
-     pais2 = 2
-
-printf(" entre com PAÍS ");
- scanf ("%i",  1 ,2 );
 
 }
 
