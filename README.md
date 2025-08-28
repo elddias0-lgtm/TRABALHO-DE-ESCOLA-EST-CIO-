@@ -3,16 +3,33 @@
 int main ()
  {
  
- 
-   float brasil, canada;
+
+ // entrando com função 
+
+
+ #include<Studio.h> 
+int mein()
+  {
+
+  
+ // Nessa camada de código entramos com brasil e canada como inteiras . 
+
+   float brasil = 10, canada = 10;
    
-    brasil = 1;
-    canada = 2;
+  
 
 printf(" entre com PAÍS\n ");
- scanf ("%f",  & brasil , canada);
+ scanf ("%f",  & brasil);
 
-    if (  canada )  {
+  
+
+
+printf(" entre com PAÍS\n ");
+ scanf ("%f",  & canada );
+
+
+
+    if (  canada > brasil )  {
     printf("SUA ESCOLHA É BRASIL");}
      else{
      printf("SUA ESCOLHA É CANADÁ");
